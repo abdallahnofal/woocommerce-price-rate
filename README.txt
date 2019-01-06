@@ -24,14 +24,6 @@ NOTE:
 3. Use the Woocommerce->Settings->Products Tab to change the price rate.
 4. Use the Woocommerce->Products->Product->Price rate tab at Woocommerce tabs to change/disable the price rate to this product.
 
-== Screenshots ==
-
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png`
-(or jpg, jpeg, gif).
-
-
 == Changelog ==
 
 = 1.0.1 =
