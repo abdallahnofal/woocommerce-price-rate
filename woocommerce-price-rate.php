@@ -3,7 +3,7 @@
  * Plugin Name: WooCommerce price rate
  * Plugin URI: https://github.com/abdallahnofal/woocommerce-price-rate/
  * Description: Change products' price based on specific rate.
- * Version: 1.0
+ * Version: 1.0.1
  * Tested up to: 5.0.2
  * Author: Abdallah Nofal
  * Author URI: https://github.com/abdallahnofal/
